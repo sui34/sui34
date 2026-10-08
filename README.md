@@ -43,15 +43,14 @@ I am just a dev who tries her best with her very last 2 brain cells. But yea I s
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sui34&show_icons=true&theme=tokyonight&title_color=f0667d&icon_color=f0667d&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <!-- <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sui34&show_icons=true&theme=tokyonight&title_color=f0667d&icon_color=f0667d&hide_border=true&bg_color=00000000&count_private=true" alt="stats" /> -->
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sui34&layout=compact&theme=tokyonight&title_color=f0667d&icon_color=f0667d&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=sui34&bg_color=00000000&color=f0667d&line=f0667d&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+</p> -->
 
 ### 💭 Dev Quote
 
