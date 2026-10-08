@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/SKS">
+  <a href="https://github.com/sui34">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f0667d&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Su%20Kalyar%20Sint." alt="Hello! I&#39;m Su Kalyar Sint." />
   </a>
 </p>
@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I am just a dev who tries her best with her very last 2 brain cells. But yeah, I somehow make things happen like a miracle.
+I am just a dev who tries her best with her very last 2 brain cells. But yea I somehow make things happen like a miracle.
 
 ### 🛠️ Tech Stack
 
@@ -43,14 +43,14 @@ I am just a dev who tries her best with her very last 2 brain cells. But yeah, I
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=SKS&show_icons=true&theme=tokyonight&title_color=f0667d&icon_color=f0667d&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=SKS&layout=compact&theme=tokyonight&title_color=f0667d&icon_color=f0667d&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sui34&show_icons=true&theme=tokyonight&title_color=f0667d&icon_color=f0667d&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sui34&layout=compact&theme=tokyonight&title_color=f0667d&icon_color=f0667d&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=SKS&bg_color=00000000&color=f0667d&line=f0667d&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=sui34&bg_color=00000000&color=f0667d&line=f0667d&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
@@ -60,4 +60,4 @@ I am just a dev who tries her best with her very last 2 brain cells. But yeah, I
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/sui34">Su Kalyar Sint</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/sui34">sui34</a></i></p>
